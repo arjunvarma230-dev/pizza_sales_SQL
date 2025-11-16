@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis — Complete SQL Case Study
+# 🍕 Pizza Sales Analysis Complete SQL Case Study
 
 A full SQL-driven analysis of a pizza sales dataset using **MySQL**.  
 This project contains **13+ SQL files**, organized by topic and difficulty, covering real business questions, revenue analytics, and time-based insights.  
